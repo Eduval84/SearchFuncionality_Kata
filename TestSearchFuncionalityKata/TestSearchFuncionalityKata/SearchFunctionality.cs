@@ -15,7 +15,7 @@ public class SearchFunctionality
         if (input.Length < 2 )
             return Enumerable.Empty<string>();
 
-        return Array.FindAll<String>(_cityNames, citys => citys.Contains(input));
+        return Array.FindAll<String>(_cityNames, citys => citys.ToLower().Contains(input.ToLower()));
     }
 
 }
