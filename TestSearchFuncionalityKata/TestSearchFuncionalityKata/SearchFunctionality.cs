@@ -1,11 +1,15 @@
+using System;
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace TestSearchFuncionalityKata;
 
 public class SearchFunctionality
 {
+
     public static IEnumerable Search(string input)
     {
-        throw new System.NotImplementedException();
+        return Enumerable.Empty<string>();
     }
 }
