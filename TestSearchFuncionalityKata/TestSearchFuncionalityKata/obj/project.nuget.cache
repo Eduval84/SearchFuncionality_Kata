@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "064n5DeD6O3Q6PTYjOcPIvvejS5eOcDL9mKIpSr30VMqbyPlFACWaqIgFh5PU3eHC2/5pqIMoDdt1gB4UAsIHw==",
+  "dgSpecHash": "/Wi6OwsibTFVp3Thy90+jPZNYGZgLeaqryyDJ21GeA5yTxWW9efeD8WuPKR1pQYD4E0eylOsJreUGPeUzia67Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\evalderrama\\source\\Cursos\\Exeal\\Search Funcionality Kata\\TestSearchFuncionalityKata\\TestSearchFuncionalityKata\\TestSearchFuncionalityKata.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evalderrama\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\evalderrama\\.nuget\\packages\\fluentassertions\\6.6.0\\fluentassertions.6.6.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
@@ -36,6 +37,7 @@
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\evalderrama\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
@@ -78,6 +80,7 @@
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\evalderrama\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.4.0\\system.security.cryptography.protecteddata.4.4.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\evalderrama\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",

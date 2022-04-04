@@ -97,3 +97,7 @@ C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFunc
 C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\obj\Debug\net6.0\TestSearchFuncionalityKata.pdb
 C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\obj\Debug\net6.0\TestSearchFuncionalityKata.genruntimeconfig.cache
 C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\obj\Debug\net6.0\ref\TestSearchFuncionalityKata.dll
+C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\bin\Debug\net6.0\FluentAssertions.dll
+C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\evalderrama\source\Cursos\Exeal\Search Funcionality Kata\TestSearchFuncionalityKata\TestSearchFuncionalityKata\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

@@ -7,9 +7,13 @@ namespace TestSearchFuncionalityKata;
 
 public class SearchFunctionality
 {
+    private IEnumerable<String> CityNames = new string[] {"Paris","Budapest","Skopje","Rotterdam","Valencia","Vancouver","Amsterdam","Vienna","Sydney","New York City","London","Bangkok", "Hong Kong", "Dubai", "Rome","Istanbul" };
 
-    public static IEnumerable Search(string input)
+    public static IEnumerable<string> Search(string input)
     {
-        return Enumerable.Empty<string>();
+        if (input.Length < 2 )
+            return Enumerable.Empty<string>();
+
+        return new List<string>() {"Valencia", "Vancouver"};
     }
 }
