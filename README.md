@@ -1,1 +1,41 @@
-# SearchFuncionality_Kata
+# Search Funcionality Kata
+
+Implement a city search funcionality. The function takes a string (search text) as input and returns the found cities which corresponds to the search text.
+
+## Prerequisites
+
+Create a collection of strings that will act as a database for the city names.
+
+City names: 
+
++ Paris
++ Budapest
++ Skopje
++ Rotterdam
++ Valencia
++ Vancouver
++ Amsterdam
++ Vienna
++ Sydney
++ New York City
++ London
++ Bangkok
++ Hong Kong
++ Dubai
++ Rome
++ Istanbul
+
+
+## Requirements
+
+1. If the search text is fewer than 2 characters, then should return no results. (It is an optimization featrue of the search funcionality)
+2. If the search text is equial to or more than 2 characters, then it should return all the city names starting with the exact search text.
++ For example for search text "va", the function shoul return Valencia and Vancouver  
+3. The search functionality should be case insensitive 
+4. The search functionality should work also when the search text is just a part of a city name.
++ For example "ape" should return "Budapest" city
+5. if the search text is a "*" (asterisk), then it should return all the city names
+
+
+
+
