@@ -15,10 +15,8 @@ public class SearchFunctionality
     {
         if (input.Length < 2 && input != "*")
             return Enumerable.Empty<string>();
-        if (!string.IsNullOrEmpty(input = "*"))
-            return _cityNames;
-        
-        return Array.FindAll<String>(_cityNames, citys => citys.ToLower().Contains(input.ToLower()));
+
+        return !string.IsNullOrEmpty(input = "*") ? _cityNames : Array.FindAll<String>(_cityNames, citys => citys.ToLower().Contains(input.ToLower()));
     }
 
 }
