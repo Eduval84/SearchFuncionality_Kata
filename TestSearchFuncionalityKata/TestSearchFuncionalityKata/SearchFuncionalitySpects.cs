@@ -50,5 +50,16 @@ namespace TestSearchFuncionalityKata
 
             result.Should().BeEquivalentTo(new List<string>() { "Budapest"});
         }
+
+
+        [Fact]
+        public void if_the_search_text_is_a_asterisk_then_it_should_return_all_the_city_names()
+        {
+            string input = "*";
+
+            IEnumerable<String> result = SearchFunctionality.Search(input);
+
+            result.Should().BeEquivalentTo(new List<string>() { "Paris", "Budapest", "Skopje", "Rotterdam", "Valencia", "Vancouver", "Amsterdam", "Vienna", "Sydney", "New York City", "London", "Bangkok", "Hong Kong", "Dubai", "Rome", "Istanbul" });
+        }
     }
 }
